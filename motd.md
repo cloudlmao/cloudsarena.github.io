@@ -6,7 +6,7 @@ This is a 1v1 dueling server with a focus on quality and performance. High tick 
 ## WMMR Leaderboard
 The WMMR Ranked Leaderboard is back! go <a id="HERE">https://wmmr.io/mordhau-duels/oce</> to view the OCE Leaderboards.
 
-Join our <a id="Discord">https://manonical.host/discord</>
+Join our <a id="Discord">https://discord.com/invite/qa3SGW4X42)</>
 
 ## Features
 - **120 Tick** for smooth gameplay
