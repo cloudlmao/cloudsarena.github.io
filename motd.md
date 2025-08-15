@@ -1,12 +1,15 @@
-# Welcome to [OCE] Cloud's Duels - 240 Tick
+# Welcome to [OCE] Cloud's Duels - 120 Tick [Ranked]
 
 ## Server Information
 This is a 1v1 dueling server with a focus on quality and performance. High tick rate, minimal mods, and a focus on fairness and competitive play.
 
+## WMMR Leaderboard
+The WMMR Ranked Leaderboard is back! go <a id="HERE">https://wmmr.io/mordhau-duels/oce</> to view the OCE Leaderboards.
+
 Join our <a id="Discord">https://manonical.host/discord</>
 
 ## Features
-- **240 Tick** for smooth gameplay
+- **120 Tick** for smooth gameplay
 - **No FFA** - duels only
 - **Minimal Mods** for better performance
 
@@ -18,10 +21,6 @@ Join our <a id="Discord">https://manonical.host/discord</>
    - Follow duel etiquette
    - Don't interrupt duels
    - Don't abuse the radio
-
-## Active Mods
-- **FOV+** - Adjustable FOV for a better dueling experience
-- **Radio** - Listen to music while you duel
 
 ## Admins
 - cloud
